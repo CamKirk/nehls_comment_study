@@ -88,7 +88,7 @@ Finally, I'd like to unpack the last few comments that the politician made about
 
 > I believe we’ve seen the worst of this war. And we’re closer to victory than we’ve ever been.
 
-In most cases for a statistical analysis (not necessarily an epidemiological one) we would describe the beginning of the worst being over when a trend is in a reversal pattern - that is, when the _rate of growth_ has begun to reach a negative number. In the next figure, we see that the percent change in the number of cases day-to-day has declined precipitously over the period. This is likely a result of the social distancing measures implemented by all of these counties in an effective way.
+In most cases for a statistical analysis (not necessarily an epidemiological one) we would describe the beginning of the worst being over when a trend is in a reversal pattern - that is, when the _rate of growth_ has begun to reach a negative number. In the next figure, we see that the percent change in the number of cases day-to-day has declined precipitously over the period. This is likely a result of the social distancing measures implemented by all of these counties in an effective way. This could also be caused by a lack of testing, which would additionally yield a lower total case count. 
 
 ![Figure 5](./img/fig-5.svg)
 
